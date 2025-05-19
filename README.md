@@ -6,13 +6,12 @@ Este projeto propõe uma solução tecnológica baseada em **Ciência de Dados**
 ## 🛠 Tecnologias Utilizadas
 - **Linguagem:** Python 3.9+
 - **Roteirização:** Google OR-Tools
-- **Modelagem preditiva:** Scikit-learn, XGBoost
+- **Modelagem preditiva:** Scikit-learn
 - **Processamento de Dados:** Pandas, NumPy
-- **Visualização:** Plotly, Dash, Power BI
+- **Visualização:** Plotly, Dash
 - **Arquitetura & ETL:** Graphviz, Airflow
-- **Armazenamento:** PostgreSQL, S3
 
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/HnerikeNato/multiplus-logistica.git
+   git clone https://github.com/HnerikeNato/case-logistica-ia.git
