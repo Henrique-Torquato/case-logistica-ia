@@ -1,7 +1,7 @@
-# 🚛 Multiplus - Otimização Logística com IA
+# 🚛 Otimização Logística com IA
 
 ## 📌 Descrição do Projeto
-Este projeto propõe uma solução tecnológica baseada em **Ciência de Dados** e **Inteligência Artificial** para automação das operações logísticas da **Multiplus**, empresa especializada em **Reciclagem de Gesso**. A solução integra dados de telemetria da frota, consumo de combustível e algoritmos preditivos para melhorar a roteirização e monitoramento.
+Este projeto propõe uma solução tecnológica baseada em **Ciência de Dados** e **Inteligência Artificial** para automação das operações logísticas. A solução integra dados de telemetria da frota, consumo de combustível e algoritmos preditivos para melhorar a roteirização e monitoramento.
 
 ## 🛠 Tecnologias Utilizadas
 - **Linguagem:** Python 3.9+
